@@ -1,0 +1,19 @@
+div{
+    background-color: rgb(25, 144, 255);
+    width: fit-content;
+    padding: 10px 20px; 
+    margin: 0 auto;
+    color: white;
+}
+
+img{
+    margin: 0 auto;
+    width: fit-content;
+    display: block;
+}
+
+H1{
+    color: rgb(25, 144, 255);
+    margin: 0 auto;
+    width: fit-content;
+}
